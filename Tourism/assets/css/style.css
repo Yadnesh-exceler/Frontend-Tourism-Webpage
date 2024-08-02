@@ -2,17 +2,12 @@
  * #style.css
 \*-----------------------------------*/
 
-/**
- * copyright 2022 codewithsadee
- */
 
 
 
 
 
-/*-----------------------------------*\
- * #CUSTOM PROPERTY
-\*-----------------------------------*/
+
 
 :root {
 
@@ -81,9 +76,6 @@
 
 
 
-/*-----------------------------------*\
- * #RESET
-\*-----------------------------------*/
 
 *, *::before, *::after {
   margin: 0;
@@ -860,9 +852,6 @@ address {
 
 @media (min-width: 580px) {
 
-  /**
-   * REUSED STYLE
-   */
 
   .container {
     max-width: 580px;
@@ -1273,9 +1262,7 @@ address {
 
 @media (min-width: 1200px) {
 
-  /**
-   * CUSTOM PROPERTY
-   */
+ 
 
   :root {
 
